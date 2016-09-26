@@ -1,4 +1,14 @@
-# mata62-projeto (ALTERE PARA O NOME DO SEU PROJETO)
+# Controle Automotivo
+Projeto da disciplina Engenharia de Sofware I (MATA62) dos alunos Vitor Marcelino, Fabio Gonzaga e Filipe Soares.
+
+## User Stories
+- Como usuario, eu quero consultar todos os meus carros, para que controlar os gastos de cada um
+- Como usuario, eu quero verificar as informações de um determinado carro, para controlar a sua manutenção
+- Como usuario, eu quero adicionar uma manutenção para um determinado carro, para que tenha esse histórico de manutenções
+- Como usuario, eu quero adicionar acessórios para um carro, para que possa controlar os acessórios em cada carro
+- Como usuario, eu quero analisar todos os gastos com todos meus carros, para que possa analisar e elaborar medidas de controle e analise
+
+# Instruções
 
 ## Configuração inicial do projeto
 
